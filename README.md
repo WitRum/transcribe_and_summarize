@@ -22,7 +22,7 @@ Basically all you need to do is fine tune the prompt in transcribe.py, and enter
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 ### Python 3.8 or newer
 
