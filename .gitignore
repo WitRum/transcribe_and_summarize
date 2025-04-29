@@ -1,0 +1,20 @@
+# Ignore audio files
+*.mp3
+*.wav
+
+# Ignore output markdown if users want to avoid committing them
+*.md
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# VSCode / PyCharm / IDE settings
+.vscode/
+.idea/
+
+# Environment files
+.env
+
+# Ignore user audio folder (optional)
+recordings/
