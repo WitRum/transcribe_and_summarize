@@ -5,7 +5,7 @@ cd /d "C:\MyProject\SummaryTranslate"
 
 :: SETUP FILE LOCATIONS
 echo Running transcription script...
-python transcribe1.py ^
+python transcribe.py ^
   --audio "[Where your audio is]" ^
   --vault "[Where you want .md uploaded]" ^
   --ffmpeg "[where this specific software is installed]"
